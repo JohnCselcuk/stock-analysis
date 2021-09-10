@@ -147,5 +147,7 @@ Thanks,
 
 John
 
+
+
 ![All Stocks (2017)](https://user-images.githubusercontent.com/85411967/132780644-8fb604e9-fe61-4740-82db-c67e3b119bd0.png)
 ![All Stocks (2018)](https://user-images.githubusercontent.com/85411967/132780654-10639285-b4ff-4a07-8816-ec8b865d689c.png)
