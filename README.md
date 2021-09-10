@@ -12,9 +12,12 @@ The data that is includes two charts with stock information on 12 different stoc
 
 Before refactoring the code, I begin by copying the code that was needed to create the input box, chart headers, ticker array, and to activate the appropriate worksheet. The steps were then listed out in order to set the structure for the refactoring. Below is the instruction and code as written in the file.
 
+
 Sub AllStocksAnalysisRefactored()
-    Dim startTime As Single
-    Dim endTime  As Single
+
+Dim startTime As Single
+
+Dim endTime  As Single
 
     yearValue = InputBox("What year would you like to run the analysis on?")
 
