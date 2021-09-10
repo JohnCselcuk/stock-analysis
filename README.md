@@ -1,5 +1,5 @@
 # Stock Analysis Wall Street
-Excel spreadsheet file: https://github.com/JohnCselcuk/stock-analysis/blob/main/VBA_Challenge.xlsm
+
 
 # Purpose
 The purpose of this project was to refactor a VBA code to collect certain stock information in the year 2017 and 2018 and determine the stocks are worth investing. The goal for this round was to increase the efficiency of the original code.
