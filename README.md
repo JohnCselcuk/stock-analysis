@@ -139,7 +139,8 @@ End Sub
 # Summary
 
 
-The Advantages of Refactoring
+# The Advantages of Refactoring
+
 Refactoring helps make our code cleaner and more organized. A few advantages of a cleaner code include design and software improvement, debugging, and faster programming. The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a four of the time approximately 0.275 to 0.345 seconds to run. Please see attached pictures below for final results.
 
 ![All Stocks (2017)](https://user-images.githubusercontent.com/85411967/132780644-8fb604e9-fe61-4740-82db-c67e3b119bd0.png)
