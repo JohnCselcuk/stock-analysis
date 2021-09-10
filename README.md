@@ -143,7 +143,8 @@ End Sub
 
 Refactoring helps make our code cleaner and more organized. A few advantages of a cleaner code include design and software improvement, debugging, and faster codding. The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time.Our new analysis only took about a approximately 0.2 seconds to run. Please see attached pictures below for final results.
 
-Thanks,
+
+Thank you for your time and Consideration,
 
 John
 
